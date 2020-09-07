@@ -1,1 +1,1 @@
-Www.github.com
+[github] (Www.github.com)
